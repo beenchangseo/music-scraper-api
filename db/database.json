@@ -1,0 +1,3520 @@
+{
+  "mellon": {
+    "MusicSummary": [
+      {
+        "ranking": 1,
+        "name": "그때 그 순간 그대로 (그그그)",
+        "singer": "WSG워너비 (가야G)",
+        "album": "WSG워너비 1집"
+      },
+      {
+        "ranking": 2,
+        "name": "보고싶었어",
+        "singer": "WSG워너비 (4FIRE)",
+        "album": "WSG워너비 1집"
+      },
+      {
+        "ranking": 3,
+        "name": "Attention",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'"
+      },
+      {
+        "ranking": 4,
+        "name": "LOVE DIVE",
+        "singer": "IVE (아이브)",
+        "album": "LOVE DIVE"
+      },
+      {
+        "ranking": 5,
+        "name": "SNEAKERS",
+        "singer": "ITZY (있지)",
+        "album": "CHECKMATE"
+      },
+      {
+        "ranking": 6,
+        "name": "POP!",
+        "singer": "나연 (TWICE)",
+        "album": "IM NAYEON"
+      },
+      {
+        "ranking": 7,
+        "name": "사랑은 늘 도망가",
+        "singer": "임영웅",
+        "album": "신사와 아가씨 OST Part.2"
+      },
+      {
+        "ranking": 8,
+        "name": "우리들의 블루스",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 9,
+        "name": "That That (prod. & feat. SUGA of BTS)",
+        "singer": "싸이 (PSY)",
+        "album": "싸다9"
+      },
+      {
+        "ranking": 10,
+        "name": "TOMBOY",
+        "singer": "(여자)아이들",
+        "album": "I NEVER DIE"
+      },
+      {
+        "ranking": 11,
+        "name": "정이라고 하자 (Feat. 10CM)",
+        "singer": "BIG Naughty (서동현)",
+        "album": "정이라고 하자"
+      },
+      {
+        "ranking": 12,
+        "name": "나의 X에게",
+        "singer": "경서",
+        "album": "나의 X에게"
+      },
+      {
+        "ranking": 13,
+        "name": "Hype boy",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'"
+      },
+      {
+        "ranking": 14,
+        "name": "다시 만날 수 있을까",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 15,
+        "name": "사랑인가 봐",
+        "singer": "멜로망스",
+        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)"
+      },
+      {
+        "ranking": 16,
+        "name": "그라데이션",
+        "singer": "10CM",
+        "album": "5.3"
+      },
+      {
+        "ranking": 17,
+        "name": "Girls",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album"
+      },
+      {
+        "ranking": 18,
+        "name": "무지개",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 19,
+        "name": "Love story",
+        "singer": "볼빨간사춘기",
+        "album": "Seoul"
+      },
+      {
+        "ranking": 20,
+        "name": "이제 나만 믿어요",
+        "singer": "임영웅",
+        "album": "내일은 미스터트롯 우승자 특전곡"
+      },
+      {
+        "ranking": 21,
+        "name": "도깨비불 (Illusion)",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album"
+      },
+      {
+        "ranking": 22,
+        "name": "내가 아니라도",
+        "singer": "주호",
+        "album": "내가 아니라도"
+      },
+      {
+        "ranking": 23,
+        "name": "아버지",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 24,
+        "name": "FEARLESS",
+        "singer": "LE SSERAFIM (르세라핌)",
+        "album": "FEARLESS"
+      },
+      {
+        "ranking": 25,
+        "name": "LOVE me",
+        "singer": "BE'O (비오)",
+        "album": "LOVE me"
+      },
+      {
+        "ranking": 26,
+        "name": "FOREVER 1",
+        "singer": "소녀시대 (GIRLS' GENERATION)",
+        "album": "FOREVER 1 - The 7th Album"
+      },
+      {
+        "ranking": 27,
+        "name": "손이 참 곱던 그대",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 28,
+        "name": "A bientot",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 29,
+        "name": "봄여름가을겨울 (Still Life)",
+        "singer": "BIGBANG (빅뱅)",
+        "album": "봄여름가을겨울 (Still Life)"
+      },
+      {
+        "ranking": 30,
+        "name": "사랑해 진짜",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 31,
+        "name": "인생찬가",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 32,
+        "name": "취중고백",
+        "singer": "김민석 (멜로망스)",
+        "album": "취중고백"
+      },
+      {
+        "ranking": 33,
+        "name": "연애편지",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 34,
+        "name": "사랑역",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 35,
+        "name": "보금자리",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 36,
+        "name": "Clink Clink (클링 클링)",
+        "singer": "WSG워너비 (오아시소)",
+        "album": "WSG워너비 1집"
+      },
+      {
+        "ranking": 37,
+        "name": "사랑해요 그대를",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 38,
+        "name": "열이올라요 (Heart Burn)",
+        "singer": "선미",
+        "album": "열이올라요 (Heart Burn)"
+      },
+      {
+        "ranking": 39,
+        "name": "ELEVEN",
+        "singer": "IVE (아이브)",
+        "album": "ELEVEN"
+      },
+      {
+        "ranking": 40,
+        "name": "다정히 내 이름을 부르면",
+        "singer": "경서예지전건호",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+      },
+      {
+        "ranking": 41,
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "singer": "Charlie Puth정국방탄소년단",
+        "album": "Left and Right (Feat. Jung Kook of BTS)"
+      },
+      {
+        "ranking": 42,
+        "name": "Yet To Come",
+        "singer": "방탄소년단",
+        "album": "Proof"
+      },
+      {
+        "ranking": 43,
+        "name": "바보에게 바보가 (웹툰 '연애의 발견' X 이석훈)",
+        "singer": "이석훈",
+        "album": "바보에게 바보가 (웹툰 '연애의 발견' X 이석훈)"
+      },
+      {
+        "ranking": 44,
+        "name": "Feel My Rhythm",
+        "singer": "Red Velvet (레드벨벳)",
+        "album": "‘The ReVe Festival 2022 - Feel My Rhythm’"
+      },
+      {
+        "ranking": 45,
+        "name": "I LOVE U",
+        "singer": "WINNER",
+        "album": "HOLIDAY"
+      },
+      {
+        "ranking": 46,
+        "name": "신호등",
+        "singer": "이무진",
+        "album": "신호등"
+      },
+      {
+        "ranking": 47,
+        "name": "Dynamite",
+        "singer": "방탄소년단",
+        "album": "Dynamite (DayTime Version)"
+      },
+      {
+        "ranking": 48,
+        "name": "아무래도 난",
+        "singer": "주시크 (Joosiq)",
+        "album": "아무래도 난"
+      },
+      {
+        "ranking": 49,
+        "name": "해요 (2022)",
+        "singer": "#안녕",
+        "album": "해요 (2022)"
+      },
+      {
+        "ranking": 50,
+        "name": "That's Hilarious",
+        "singer": "Charlie Puth",
+        "album": "That's Hilarious"
+      },
+      {
+        "ranking": 51,
+        "name": "눈을 감으면",
+        "singer": "WSG워너비",
+        "album": "눈을 감으면"
+      },
+      {
+        "ranking": 52,
+        "name": "STAY",
+        "singer": "The Kid LAROIJustin Bieber",
+        "album": "Stay"
+      },
+      {
+        "ranking": 53,
+        "name": "너의 모든 순간",
+        "singer": "성시경",
+        "album": "별에서 온 그대 OST Part.7"
+      },
+      {
+        "ranking": 54,
+        "name": "HOT",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album 'Face the Sun'"
+      },
+      {
+        "ranking": 55,
+        "name": "Butter",
+        "singer": "방탄소년단",
+        "album": "Butter"
+      },
+      {
+        "ranking": 56,
+        "name": "GANADARA (Feat. 아이유)",
+        "singer": "박재범",
+        "album": "GANADARA"
+      },
+      {
+        "ranking": 57,
+        "name": "MY BAG",
+        "singer": "(여자)아이들",
+        "album": "I NEVER DIE"
+      },
+      {
+        "ranking": 58,
+        "name": "늦은 밤 헤어지긴 너무 아쉬워",
+        "singer": "케이시 (Kassy)",
+        "album": "LOVE & HATE"
+      },
+      {
+        "ranking": 59,
+        "name": "_WORLD",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album Repackage ‘SECTOR 17'"
+      },
+      {
+        "ranking": 60,
+        "name": "듣고 싶을까",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "듣고 싶을까"
+      },
+      {
+        "ranking": 61,
+        "name": "INVU",
+        "singer": "태연 (TAEYEON)",
+        "album": "INVU - The 3rd Album"
+      },
+      {
+        "ranking": 62,
+        "name": "Cookie",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'"
+      },
+      {
+        "ranking": 63,
+        "name": "Permission to Dance",
+        "singer": "방탄소년단",
+        "album": "Butter / Permission to Dance"
+      },
+      {
+        "ranking": 64,
+        "name": "Weekend",
+        "singer": "태연 (TAEYEON)",
+        "album": "Weekend"
+      },
+      {
+        "ranking": 65,
+        "name": "Next Level",
+        "singer": "aespa",
+        "album": "Next Level"
+      },
+      {
+        "ranking": 66,
+        "name": "I Ain't Worried",
+        "singer": "OneRepublic",
+        "album": "탑건 : 매버릭 (Top Gun: Maverick) (영화 OST)"
+      },
+      {
+        "ranking": 67,
+        "name": "Sparkling",
+        "singer": "청하",
+        "album": "Bare&Rare Pt.1"
+      },
+      {
+        "ranking": 68,
+        "name": "너를 생각해",
+        "singer": "주시크 (Joosiq)",
+        "album": "너를 생각해"
+      },
+      {
+        "ranking": 69,
+        "name": "내 기쁨은 너가 벤틀리를 끄는 거야",
+        "singer": "김승민",
+        "album": "PROTOTYPE RESEARCH #0063"
+      },
+      {
+        "ranking": 70,
+        "name": "BEAUTIFUL MONSTER",
+        "singer": "STAYC(스테이씨)",
+        "album": "WE NEED LOVE"
+      },
+      {
+        "ranking": 71,
+        "name": "SMILEY (Feat. BIBI)",
+        "singer": "YENA (최예나)",
+        "album": "ˣ‿ˣ (SMiLEY)"
+      },
+      {
+        "ranking": 72,
+        "name": "팡파레",
+        "singer": "다비치",
+        "album": "Season Note"
+      },
+      {
+        "ranking": 73,
+        "name": "새벽에 걸려온 너의 전화는",
+        "singer": "한동근",
+        "album": "미련을 말하는"
+      },
+      {
+        "ranking": 74,
+        "name": "사랑이야",
+        "singer": "케이시 (Kassy)",
+        "album": "사랑이야"
+      },
+      {
+        "ranking": 75,
+        "name": "고백하는 취한밤에 (Prod. 2soo)",
+        "singer": "임재현",
+        "album": "고백하는 취한밤에"
+      },
+      {
+        "ranking": 76,
+        "name": "봄날",
+        "singer": "방탄소년단",
+        "album": "YOU NEVER WALK ALONE"
+      },
+      {
+        "ranking": 77,
+        "name": "바라만 본다",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "MSG워너비 1집"
+      },
+      {
+        "ranking": 78,
+        "name": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+        "singer": "sokodomo",
+        "album": "쇼미더머니 10 Episode 2"
+      },
+      {
+        "ranking": 79,
+        "name": "드라마",
+        "singer": "아이유",
+        "album": "조각집"
+      },
+      {
+        "ranking": 80,
+        "name": "밤하늘의 별을(2020)",
+        "singer": "경서",
+        "album": "밤하늘의 별을(2020)"
+      },
+      {
+        "ranking": 81,
+        "name": "My Universe",
+        "singer": "Coldplay방탄소년단",
+        "album": "My Universe"
+      },
+      {
+        "ranking": 82,
+        "name": "내 손을 잡아",
+        "singer": "아이유",
+        "album": "최고의 사랑 OST Part.4"
+      },
+      {
+        "ranking": 83,
+        "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+        "singer": "폴킴",
+        "album": "'키스 먼저 할까요?' OST Part.3"
+      },
+      {
+        "ranking": 84,
+        "name": "언제나 사랑해",
+        "singer": "케이시 (Kassy)",
+        "album": "조영수 리메이크 프로젝트 Part.2"
+      },
+      {
+        "ranking": 85,
+        "name": "With you",
+        "singer": "지민하성운",
+        "album": "우리들의 블루스 OST Part 4"
+      },
+      {
+        "ranking": 86,
+        "name": "Bad Decisions",
+        "singer": "benny blanco방탄소년단Snoop Dogg",
+        "album": "Bad Decisions"
+      },
+      {
+        "ranking": 87,
+        "name": "OHAYO MY NIGHT",
+        "singer": "디핵 (D-Hack)PATEKO (파테코)",
+        "album": "OHAYO MY NIGHT"
+      },
+      {
+        "ranking": 88,
+        "name": "리무진 (Feat. MINO) (Prod. GRAY)",
+        "singer": "BE'O (비오)",
+        "album": "쇼미더머니 10 Episode 3"
+      },
+      {
+        "ranking": 89,
+        "name": "미친 것처럼",
+        "singer": "V.O.S",
+        "album": "아픔을 말하는"
+      },
+      {
+        "ranking": 90,
+        "name": "Off My Face",
+        "singer": "Justin Bieber",
+        "album": "Justice (The Complete Edition)"
+      },
+      {
+        "ranking": 91,
+        "name": "주마등",
+        "singer": "김호중",
+        "album": "PANORAMA"
+      },
+      {
+        "ranking": 92,
+        "name": "strawberry moon",
+        "singer": "아이유",
+        "album": "strawberry moon"
+      },
+      {
+        "ranking": 93,
+        "name": "그 하루(feat.반하나)",
+        "singer": "주호",
+        "album": "그 하루"
+      },
+      {
+        "ranking": 94,
+        "name": "Celebrity",
+        "singer": "아이유",
+        "album": "IU 5th Album 'LILAC'"
+      },
+      {
+        "ranking": 95,
+        "name": "빛이 나는 사람",
+        "singer": "김호중",
+        "album": "빛이 나는 사람"
+      },
+      {
+        "ranking": 96,
+        "name": "롤린 (Rollin')",
+        "singer": "브레이브걸스",
+        "album": "Rollin'"
+      },
+      {
+        "ranking": 97,
+        "name": "ZOOM",
+        "singer": "제시 (Jessi)",
+        "album": "ZOOM"
+      },
+      {
+        "ranking": 98,
+        "name": "약속 [約束]",
+        "singer": "김호중",
+        "album": "PANORAMA"
+      },
+      {
+        "ranking": 99,
+        "name": "Darl+ing",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album 'Face the Sun'"
+      },
+      {
+        "ranking": 100,
+        "name": "스물다섯, 스물하나",
+        "singer": "자우림",
+        "album": "Goodbye, grief."
+      }
+    ],
+    "MusicDetail": [
+      {
+        "ranking": 26,
+        "name": "FOREVER 1",
+        "singer": "소녀시대 (GIRLS' GENERATION)",
+        "album": "FOREVER 1 - The 7th Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 22,
+        "name": "내가 아니라도",
+        "singer": "주호",
+        "album": "내가 아니라도",
+        "publisher": "워너뮤직",
+        "agency": "IN A MILLION"
+      },
+      {
+        "ranking": 74,
+        "name": "사랑이야",
+        "singer": "케이시 (Kassy)",
+        "album": "사랑이야",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "넥스타엔터테인먼트"
+      },
+      {
+        "ranking": 16,
+        "name": "그라데이션",
+        "singer": "10CM",
+        "album": "5.3",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "매직스트로베리사운드"
+      },
+      {
+        "ranking": 49,
+        "name": "해요 (2022)",
+        "singer": "#안녕",
+        "album": "해요 (2022)",
+        "publisher": "지니뮤직",
+        "agency": "일팔 프로젝트"
+      },
+      {
+        "ranking": 43,
+        "name": "바보에게 바보가 (웹툰 '연애의 발견' X 이석훈)",
+        "singer": "이석훈",
+        "album": "바보에게 바보가 (웹툰 '연애의 발견' X 이석훈)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "TOON STUDIO"
+      },
+      {
+        "ranking": 93,
+        "name": "그 하루(feat.반하나)",
+        "singer": "주호",
+        "album": "그 하루",
+        "publisher": "워너뮤직",
+        "agency": "IN A MILLION"
+      },
+      {
+        "ranking": 51,
+        "name": "눈을 감으면",
+        "singer": "WSG워너비",
+        "album": "눈을 감으면",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 75,
+        "name": "고백하는 취한밤에 (Prod. 2soo)",
+        "singer": "임재현",
+        "album": "고백하는 취한밤에",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "디원미디어, 니즈뮤직"
+      },
+      {
+        "ranking": 73,
+        "name": "새벽에 걸려온 너의 전화는",
+        "singer": "한동근",
+        "album": "미련을 말하는",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "말하는"
+      },
+      {
+        "ranking": 11,
+        "name": "정이라고 하자 (Feat. 10CM)",
+        "singer": "BIG Naughty (서동현)",
+        "album": "정이라고 하자",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "H1GHR MUSIC RECORDS"
+      },
+      {
+        "ranking": 38,
+        "name": "열이올라요 (Heart Burn)",
+        "singer": "선미",
+        "album": "열이올라요 (Heart Burn)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "(주)어비스컴퍼니"
+      },
+      {
+        "ranking": 72,
+        "name": "팡파레",
+        "singer": "다비치",
+        "album": "Season Note",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "WAKEONE"
+      },
+      {
+        "ranking": 81,
+        "name": "My Universe",
+        "singer": "Coldplay방탄소년단",
+        "album": "My Universe",
+        "publisher": "워너뮤직",
+        "agency": "Parlophone UK"
+      },
+      {
+        "ranking": 56,
+        "name": "GANADARA (Feat. 아이유)",
+        "singer": "박재범",
+        "album": "GANADARA",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "MORE VISION"
+      },
+      {
+        "ranking": 69,
+        "name": "내 기쁨은 너가 벤틀리를 끄는 거야",
+        "singer": "김승민",
+        "album": "PROTOTYPE RESEARCH #0063",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "뷰티플노이즈"
+      },
+      {
+        "ranking": 52,
+        "name": "STAY",
+        "singer": "The Kid LAROIJustin Bieber",
+        "album": "Stay",
+        "publisher": "Sony Music",
+        "agency": "Columbia"
+      },
+      {
+        "ranking": 66,
+        "name": "I Ain't Worried",
+        "singer": "OneRepublic",
+        "album": "탑건 : 매버릭 (Top Gun: Maverick) (영화 OST)",
+        "publisher": "Universal Music Group",
+        "agency": "Interscope Records"
+      },
+      {
+        "ranking": 82,
+        "name": "내 손을 잡아",
+        "singer": "아이유",
+        "album": "최고의 사랑 OST Part.4",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "더그루브엔터테인먼트"
+      },
+      {
+        "ranking": 25,
+        "name": "LOVE me",
+        "singer": "BE'O (비오)",
+        "album": "LOVE me",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "BPM ENTERTAINMENT, SWING ENTERTAINMENT, 페임어스 엔터테인먼.."
+      },
+      {
+        "ranking": 86,
+        "name": "Bad Decisions",
+        "singer": "benny blanco방탄소년단Snoop Dogg",
+        "album": "Bad Decisions",
+        "publisher": "Universal Music Group",
+        "agency": "Friends Keep Secrets/Interscope Records"
+      },
+      {
+        "ranking": 13,
+        "name": "Hype boy",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 41,
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "singer": "Charlie Puth정국방탄소년단",
+        "album": "Left and Right (Feat. Jung Kook of BTS)",
+        "publisher": "워너뮤직",
+        "agency": "Atlantic Records"
+      },
+      {
+        "ranking": 50,
+        "name": "That's Hilarious",
+        "singer": "Charlie Puth",
+        "album": "That's Hilarious",
+        "publisher": "워너뮤직",
+        "agency": "Atlantic Records"
+      },
+      {
+        "ranking": 48,
+        "name": "아무래도 난",
+        "singer": "주시크 (Joosiq)",
+        "album": "아무래도 난",
+        "publisher": "워너뮤직",
+        "agency": "주식회사 레시피뮤직"
+      },
+      {
+        "ranking": 3,
+        "name": "Attention",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 24,
+        "name": "FEARLESS",
+        "singer": "LE SSERAFIM (르세라핌)",
+        "album": "FEARLESS",
+        "publisher": "YG PLUS",
+        "agency": "쏘스뮤직"
+      },
+      {
+        "ranking": 58,
+        "name": "늦은 밤 헤어지긴 너무 아쉬워",
+        "singer": "케이시 (Kassy)",
+        "album": "LOVE & HATE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "넥스타엔터테인먼트"
+      },
+      {
+        "ranking": 39,
+        "name": "ELEVEN",
+        "singer": "IVE (아이브)",
+        "album": "ELEVEN",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "ranking": 89,
+        "name": "미친 것처럼",
+        "singer": "V.O.S",
+        "album": "아픔을 말하는",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "말하는"
+      },
+      {
+        "ranking": 46,
+        "name": "신호등",
+        "singer": "이무진",
+        "album": "신호등",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "쇼플레이엔터테인먼트"
+      },
+      {
+        "ranking": 80,
+        "name": "밤하늘의 별을(2020)",
+        "singer": "경서",
+        "album": "밤하늘의 별을(2020)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "꿈의엔진"
+      },
+      {
+        "ranking": 60,
+        "name": "듣고 싶을까",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "듣고 싶을까",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "NK COMPANY"
+      },
+      {
+        "ranking": 92,
+        "name": "strawberry moon",
+        "singer": "아이유",
+        "album": "strawberry moon",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 68,
+        "name": "너를 생각해",
+        "singer": "주시크 (Joosiq)",
+        "album": "너를 생각해",
+        "publisher": "워너뮤직",
+        "agency": "주식회사 레시피뮤직"
+      },
+      {
+        "ranking": 95,
+        "name": "빛이 나는 사람",
+        "singer": "김호중",
+        "album": "빛이 나는 사람",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "생각엔터테인먼트"
+      },
+      {
+        "ranking": 65,
+        "name": "Next Level",
+        "singer": "aespa",
+        "album": "Next Level",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 12,
+        "name": "나의 X에게",
+        "singer": "경서",
+        "album": "나의 X에게",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "꿈의엔진"
+      },
+      {
+        "ranking": 87,
+        "name": "OHAYO MY NIGHT",
+        "singer": "디핵 (D-Hack)PATEKO (파테코)",
+        "album": "OHAYO MY NIGHT",
+        "publisher": "YG PLUS",
+        "agency": "NEOKIDZ"
+      },
+      {
+        "ranking": 78,
+        "name": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+        "singer": "sokodomo",
+        "album": "쇼미더머니 10 Episode 2",
+        "publisher": "지니뮤직",
+        "agency": "Stone Music Entertainment"
+      },
+      {
+        "ranking": 77,
+        "name": "바라만 본다",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "MSG워너비 1집",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "유야호"
+      },
+      {
+        "ranking": 53,
+        "name": "너의 모든 순간",
+        "singer": "성시경",
+        "album": "별에서 온 그대 OST Part.7",
+        "publisher": "NHN벅스",
+        "agency": "㈜SBS콘텐츠허브"
+      },
+      {
+        "ranking": 54,
+        "name": "HOT",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album 'Face the Sun'",
+        "publisher": "YG PLUS",
+        "agency": "플레디스엔터테인먼트"
+      },
+      {
+        "ranking": 64,
+        "name": "Weekend",
+        "singer": "태연 (TAEYEON)",
+        "album": "Weekend",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 20,
+        "name": "이제 나만 믿어요",
+        "singer": "임영웅",
+        "album": "내일은 미스터트롯 우승자 특전곡",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN"
+      },
+      {
+        "ranking": 96,
+        "name": "롤린 (Rollin')",
+        "singer": "브레이브걸스",
+        "album": "Rollin'",
+        "publisher": "㈜삼쩜일사",
+        "agency": "브레이브 엔터테인먼트"
+      },
+      {
+        "ranking": 83,
+        "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+        "singer": "폴킴",
+        "album": "'키스 먼저 할까요?' OST Part.3",
+        "publisher": "Dreamus",
+        "agency": "SM Entertainment"
+      },
+      {
+        "ranking": 70,
+        "name": "BEAUTIFUL MONSTER",
+        "singer": "STAYC(스테이씨)",
+        "album": "WE NEED LOVE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "High Up Entertainment"
+      },
+      {
+        "ranking": 1,
+        "name": "그때 그 순간 그대로 (그그그)",
+        "singer": "WSG워너비 (가야G)",
+        "album": "WSG워너비 1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 2,
+        "name": "보고싶었어",
+        "singer": "WSG워너비 (4FIRE)",
+        "album": "WSG워너비 1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 67,
+        "name": "Sparkling",
+        "singer": "청하",
+        "album": "Bare&Rare Pt.1",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "MNH Entertainment"
+      },
+      {
+        "ranking": 10,
+        "name": "TOMBOY",
+        "singer": "(여자)아이들",
+        "album": "I NEVER DIE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "ranking": 36,
+        "name": "Clink Clink (클링 클링)",
+        "singer": "WSG워너비 (오아시소)",
+        "album": "WSG워너비 1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 45,
+        "name": "I LOVE U",
+        "singer": "WINNER",
+        "album": "HOLIDAY",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 40,
+        "name": "다정히 내 이름을 부르면",
+        "singer": "경서예지전건호",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "에버그로우"
+      },
+      {
+        "ranking": 57,
+        "name": "MY BAG",
+        "singer": "(여자)아이들",
+        "album": "I NEVER DIE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "ranking": 44,
+        "name": "Feel My Rhythm",
+        "singer": "Red Velvet (레드벨벳)",
+        "album": "‘The ReVe Festival 2022 - Feel My Rhythm’",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 71,
+        "name": "SMILEY (Feat. BIBI)",
+        "singer": "YENA (최예나)",
+        "album": "ˣ‿ˣ (SMiLEY)",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "위에화엔터테인먼트코리아"
+      },
+      {
+        "ranking": 88,
+        "name": "리무진 (Feat. MINO) (Prod. GRAY)",
+        "singer": "BE'O (비오)",
+        "album": "쇼미더머니 10 Episode 3",
+        "publisher": "지니뮤직",
+        "agency": "Stone Music Entertainment"
+      },
+      {
+        "ranking": 27,
+        "name": "손이 참 곱던 그대",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 90,
+        "name": "Off My Face",
+        "singer": "Justin Bieber",
+        "album": "Justice (The Complete Edition)",
+        "publisher": "Universal Music Group",
+        "agency": "RBMG/Def Jam"
+      },
+      {
+        "ranking": 55,
+        "name": "Butter",
+        "singer": "방탄소년단",
+        "album": "Butter",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 8,
+        "name": "우리들의 블루스",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 19,
+        "name": "Love story",
+        "singer": "볼빨간사춘기",
+        "album": "Seoul",
+        "publisher": "(주)엔에이치엔벅스",
+        "agency": "쇼파르엔터테인먼트"
+      },
+      {
+        "ranking": 4,
+        "name": "LOVE DIVE",
+        "singer": "IVE (아이브)",
+        "album": "LOVE DIVE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "ranking": 100,
+        "name": "스물다섯, 스물하나",
+        "singer": "자우림",
+        "album": "Goodbye, grief.",
+        "publisher": "(주)인터파크",
+        "agency": "LOVE MANEUVER"
+      },
+      {
+        "ranking": 6,
+        "name": "POP!",
+        "singer": "나연 (TWICE)",
+        "album": "IM NAYEON",
+        "publisher": "Dreamus",
+        "agency": "㈜JYP엔터테인먼트"
+      },
+      {
+        "ranking": 34,
+        "name": "사랑역",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 14,
+        "name": "다시 만날 수 있을까",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 62,
+        "name": "Cookie",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 15,
+        "name": "사랑인가 봐",
+        "singer": "멜로망스",
+        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "플렉스엠"
+      },
+      {
+        "ranking": 29,
+        "name": "봄여름가을겨울 (Still Life)",
+        "singer": "BIGBANG (빅뱅)",
+        "album": "봄여름가을겨울 (Still Life)",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 63,
+        "name": "Permission to Dance",
+        "singer": "방탄소년단",
+        "album": "Butter / Permission to Dance",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 18,
+        "name": "무지개",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 9,
+        "name": "That That (prod. & feat. SUGA of BTS)",
+        "singer": "싸이 (PSY)",
+        "album": "싸다9",
+        "publisher": "Dreamus",
+        "agency": "P NATION"
+      },
+      {
+        "ranking": 47,
+        "name": "Dynamite",
+        "singer": "방탄소년단",
+        "album": "Dynamite (DayTime Version)",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 79,
+        "name": "드라마",
+        "singer": "아이유",
+        "album": "조각집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 17,
+        "name": "Girls",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 5,
+        "name": "SNEAKERS",
+        "singer": "ITZY (있지)",
+        "album": "CHECKMATE",
+        "publisher": "Dreamus",
+        "agency": "(주)JYP엔터테인먼트"
+      },
+      {
+        "ranking": 33,
+        "name": "연애편지",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 31,
+        "name": "인생찬가",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 98,
+        "name": "약속 [約束]",
+        "singer": "김호중",
+        "album": "PANORAMA",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "(주)생각엔터테인먼트"
+      },
+      {
+        "ranking": 30,
+        "name": "사랑해 진짜",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 91,
+        "name": "주마등",
+        "singer": "김호중",
+        "album": "PANORAMA",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "(주)생각엔터테인먼트"
+      },
+      {
+        "ranking": 32,
+        "name": "취중고백",
+        "singer": "김민석 (멜로망스)",
+        "album": "취중고백",
+        "publisher": "워너뮤직",
+        "agency": "프로젝트 리본"
+      },
+      {
+        "ranking": 85,
+        "name": "With you",
+        "singer": "지민하성운",
+        "album": "우리들의 블루스 OST Part 4",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "냠냠엔터테인먼트"
+      },
+      {
+        "ranking": 59,
+        "name": "_WORLD",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album Repackage ‘SECTOR 17'",
+        "publisher": "YG PLUS",
+        "agency": "플레디스엔터테인먼트"
+      },
+      {
+        "ranking": 21,
+        "name": "도깨비불 (Illusion)",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 84,
+        "name": "언제나 사랑해",
+        "singer": "케이시 (Kassy)",
+        "album": "조영수 리메이크 프로젝트 Part.2",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "도토리뮤직"
+      },
+      {
+        "ranking": 7,
+        "name": "사랑은 늘 도망가",
+        "singer": "임영웅",
+        "album": "신사와 아가씨 OST Part.2",
+        "publisher": "(주)엔에이치엔벅스",
+        "agency": "모스트콘텐츠"
+      },
+      {
+        "ranking": 97,
+        "name": "ZOOM",
+        "singer": "제시 (Jessi)",
+        "album": "ZOOM",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "피네이션 주식회사"
+      },
+      {
+        "ranking": 28,
+        "name": "A bientot",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 35,
+        "name": "보금자리",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 94,
+        "name": "Celebrity",
+        "singer": "아이유",
+        "album": "IU 5th Album 'LILAC'",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 37,
+        "name": "사랑해요 그대를",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 61,
+        "name": "INVU",
+        "singer": "태연 (TAEYEON)",
+        "album": "INVU - The 3rd Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 23,
+        "name": "아버지",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 76,
+        "name": "봄날",
+        "singer": "방탄소년단",
+        "album": "YOU NEVER WALK ALONE",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 42,
+        "name": "Yet To Come",
+        "singer": "방탄소년단",
+        "album": "Proof",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 99,
+        "name": "Darl+ing",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album 'Face the Sun'",
+        "publisher": "YG PLUS",
+        "agency": "플레디스엔터테인먼트"
+      }
+    ]
+  },
+  "vibe": {
+    "MusicSummary": [
+      {
+        "ranking": 1,
+        "name": "그때 그 순간 그대로 (그그그)",
+        "singer": "WSG워너비(가야G)",
+        "album": "WSG워너비 1집"
+      },
+      {
+        "ranking": 2,
+        "name": "LOVE DIVE",
+        "singer": "IVE(아이브)",
+        "album": "LOVE DIVE"
+      },
+      {
+        "ranking": 3,
+        "name": "Attention",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'"
+      },
+      {
+        "ranking": 4,
+        "name": "보고싶었어",
+        "singer": "WSG워너비(4FIRE)",
+        "album": "WSG워너비 1집"
+      },
+      {
+        "ranking": 5,
+        "name": "POP!",
+        "singer": "나연 (TWICE)",
+        "album": "IM NAYEON"
+      },
+      {
+        "ranking": 6,
+        "name": "나의 X에게",
+        "singer": "경서",
+        "album": "나의 X에게"
+      },
+      {
+        "ranking": 7,
+        "name": "TOMBOY",
+        "singer": "(여자) 아이들",
+        "album": "I NEVER DIE"
+      },
+      {
+        "ranking": 8,
+        "name": "SNEAKERS",
+        "singer": "ITZY(있지)",
+        "album": "CHECKMATE"
+      },
+      {
+        "ranking": 9,
+        "name": "That That (prod. ＆ feat. SUGA of BTS)",
+        "singer": "싸이 (PSY)",
+        "album": "싸다9"
+      },
+      {
+        "ranking": 10,
+        "name": "정이라고 하자 (Feat. 10CM)",
+        "singer": "BIG Naughty (서동현)",
+        "album": "정이라고 하자"
+      },
+      {
+        "ranking": 11,
+        "name": "Girls",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album"
+      },
+      {
+        "ranking": 12,
+        "name": "Hype boy",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'"
+      },
+      {
+        "ranking": 13,
+        "name": "사랑인가 봐",
+        "singer": "멜로망스(Melomance)",
+        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)"
+      },
+      {
+        "ranking": 14,
+        "name": "도깨비불 (Illusion)",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album"
+      },
+      {
+        "ranking": 15,
+        "name": "FEARLESS",
+        "singer": "LE SSERAFIM (르세라핌)",
+        "album": "FEARLESS"
+      },
+      {
+        "ranking": 16,
+        "name": "열이올라요 (Heart Burn)",
+        "singer": "선미",
+        "album": "열이올라요 (Heart Burn)"
+      },
+      {
+        "ranking": 17,
+        "name": "신호등",
+        "singer": "이무진",
+        "album": "신호등"
+      },
+      {
+        "ranking": 18,
+        "name": "그라데이션",
+        "singer": "10CM",
+        "album": "5.3"
+      },
+      {
+        "ranking": 19,
+        "name": "취중고백",
+        "singer": "김민석(멜로망스)",
+        "album": "취중고백"
+      },
+      {
+        "ranking": 20,
+        "name": "ELEVEN",
+        "singer": "IVE(아이브)",
+        "album": "ELEVEN"
+      },
+      {
+        "ranking": 21,
+        "name": "Clink Clink (클링 클링)",
+        "singer": "WSG워너비(오아시소)",
+        "album": "WSG워너비 1집"
+      },
+      {
+        "ranking": 22,
+        "name": "FOREVER 1",
+        "singer": "소녀시대 (GIRLS' GENERATION)",
+        "album": "FOREVER 1 - The 7th Album"
+      },
+      {
+        "ranking": 23,
+        "name": "너의 모든 순간",
+        "singer": "성시경",
+        "album": "별에서 온 그대 OST Part 7"
+      },
+      {
+        "ranking": 24,
+        "name": "I LOVE U",
+        "singer": "WINNER",
+        "album": "HOLIDAY"
+      },
+      {
+        "ranking": 25,
+        "name": "봄여름가을겨울 (Still Life)",
+        "singer": "BIGBANG (빅뱅)",
+        "album": "봄여름가을겨울 (Still Life)"
+      },
+      {
+        "ranking": 26,
+        "name": "Feel My Rhythm",
+        "singer": "Red Velvet (레드벨벳)",
+        "album": "'The ReVe Festival 2022 - Feel My Rhythm'"
+      },
+      {
+        "ranking": 27,
+        "name": "듣고 싶을까",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "듣고 싶을까"
+      },
+      {
+        "ranking": 28,
+        "name": "우리들의 블루스",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 29,
+        "name": "STAY",
+        "singer": "The Kid LAROI",
+        "album": "STAY"
+      },
+      {
+        "ranking": 30,
+        "name": "LOVE me",
+        "singer": "BE'O(비오)",
+        "album": "LOVE me"
+      },
+      {
+        "ranking": 31,
+        "name": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+        "singer": "sokodomo",
+        "album": "쇼미더머니 10 Episode 2"
+      },
+      {
+        "ranking": 32,
+        "name": "팡파레",
+        "singer": "다비치",
+        "album": "Season Note"
+      },
+      {
+        "ranking": 33,
+        "name": "드라마",
+        "singer": "아이유(IU)",
+        "album": "조각집"
+      },
+      {
+        "ranking": 34,
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "singer": "Charlie Puth",
+        "album": "Left and Right (Feat. Jung Kook of BTS)"
+      },
+      {
+        "ranking": 35,
+        "name": "Sparkling",
+        "singer": "청하",
+        "album": "Bare&Rare Pt.1"
+      },
+      {
+        "ranking": 36,
+        "name": "사랑은 늘 도망가",
+        "singer": "임영웅",
+        "album": "신사와 아가씨 OST Part 2"
+      },
+      {
+        "ranking": 37,
+        "name": "Love story",
+        "singer": "볼빨간사춘기",
+        "album": "Seoul"
+      },
+      {
+        "ranking": 38,
+        "name": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "singer": "AKMU(악뮤)",
+        "album": "항해"
+      },
+      {
+        "ranking": 39,
+        "name": "Next Level",
+        "singer": "aespa",
+        "album": "Next Level"
+      },
+      {
+        "ranking": 40,
+        "name": "밤하늘의 별을 (2020)",
+        "singer": "경서",
+        "album": "밤하늘의 별을 (2020)"
+      },
+      {
+        "ranking": 41,
+        "name": "That's Hilarious",
+        "singer": "Charlie Puth",
+        "album": "That's Hilarious"
+      },
+      {
+        "ranking": 42,
+        "name": "BEAUTIFUL MONSTER",
+        "singer": "STAYC(스테이씨)",
+        "album": "WE NEED LOVE"
+      },
+      {
+        "ranking": 43,
+        "name": "Cookie",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'"
+      },
+      {
+        "ranking": 44,
+        "name": "늦은 밤 헤어지긴 너무 아쉬워",
+        "singer": "케이시(Kassy)",
+        "album": "LOVE & HATE"
+      },
+      {
+        "ranking": 45,
+        "name": "SMILEY (Feat. BIBI)",
+        "singer": "YENA(최예나)",
+        "album": "ˣ‿ˣ (SMiLEY)"
+      },
+      {
+        "ranking": 46,
+        "name": "INVU",
+        "singer": "태연 (TAEYEON)",
+        "album": "INVU - The 3rd Album"
+      },
+      {
+        "ranking": 47,
+        "name": "다정히 내 이름을 부르면",
+        "singer": "경서예지",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+      },
+      {
+        "ranking": 48,
+        "name": "About Damn Time",
+        "singer": "Lizzo",
+        "album": "Special"
+      },
+      {
+        "ranking": 49,
+        "name": "Somebody!",
+        "singer": "로꼬",
+        "album": "Somebody"
+      },
+      {
+        "ranking": 50,
+        "name": "GANADARA (Feat. 아이유)",
+        "singer": "박재범",
+        "album": "GANADARA"
+      },
+      {
+        "ranking": 51,
+        "name": "Bad Habits",
+        "singer": "Ed Sheeran",
+        "album": "Bad Habits"
+      },
+      {
+        "ranking": 52,
+        "name": "다시 만날 수 있을까",
+        "singer": "임영웅",
+        "album": "IM HERO"
+      },
+      {
+        "ranking": 53,
+        "name": "리무진 (Feat. MINO) (Prod. GRAY)",
+        "singer": "BE'O(비오)",
+        "album": "쇼미더머니 10 Episode 3"
+      },
+      {
+        "ranking": 54,
+        "name": "라일락",
+        "singer": "아이유(IU)",
+        "album": "IU 5th Album 'LILAC'"
+      },
+      {
+        "ranking": 55,
+        "name": "괴짜 (Freak)",
+        "singer": "지코 (ZICO)",
+        "album": "Grown Ass Kid"
+      },
+      {
+        "ranking": 56,
+        "name": "밤편지",
+        "singer": "아이유(IU)",
+        "album": "밤편지"
+      },
+      {
+        "ranking": 57,
+        "name": "아무래도 난",
+        "singer": "주시크 (Joosiq)",
+        "album": "아무래도 난"
+      },
+      {
+        "ranking": 58,
+        "name": "사랑이야",
+        "singer": "케이시(Kassy)",
+        "album": "사랑이야"
+      },
+      {
+        "ranking": 59,
+        "name": "Weekend",
+        "singer": "태연 (TAEYEON)",
+        "album": "Weekend"
+      },
+      {
+        "ranking": 60,
+        "name": "Yet To Come",
+        "singer": "방탄소년단",
+        "album": "Proof"
+      },
+      {
+        "ranking": 61,
+        "name": "As It Was",
+        "singer": "Harry Styles",
+        "album": "As It Was"
+      },
+      {
+        "ranking": 62,
+        "name": "strawberry moon",
+        "singer": "아이유(IU)",
+        "album": "strawberry moon"
+      },
+      {
+        "ranking": 63,
+        "name": "눈을 감으면",
+        "singer": "WSG워너비",
+        "album": "눈을 감으면"
+      },
+      {
+        "ranking": 64,
+        "name": "고백",
+        "singer": "멜로망스(Melomance)",
+        "album": "세 번째 '고백'"
+      },
+      {
+        "ranking": 65,
+        "name": "Dynamite",
+        "singer": "방탄소년단",
+        "album": "Dynamite (DayTime Version)"
+      },
+      {
+        "ranking": 66,
+        "name": "호랑수월가",
+        "singer": "탑현",
+        "album": "호랑수월가"
+      },
+      {
+        "ranking": 67,
+        "name": "MY BAG",
+        "singer": "(여자) 아이들",
+        "album": "I NEVER DIE"
+      },
+      {
+        "ranking": 68,
+        "name": "눈이 오잖아(Feat.헤이즈)",
+        "singer": "이무진",
+        "album": "눈이 오잖아(Feat.헤이즈)"
+      },
+      {
+        "ranking": 69,
+        "name": "Stay This Way",
+        "singer": "프로미스나인",
+        "album": "from our Memento Box"
+      },
+      {
+        "ranking": 70,
+        "name": "바라만 본다",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "MSG워너비 1집"
+      },
+      {
+        "ranking": 71,
+        "name": "낙하 (with 아이유)",
+        "singer": "AKMU(악뮤)",
+        "album": "NEXT EPISODE"
+      },
+      {
+        "ranking": 72,
+        "name": "Permission to Dance",
+        "singer": "방탄소년단",
+        "album": "Butter / Permission to Dance"
+      },
+      {
+        "ranking": 73,
+        "name": "ZOOM",
+        "singer": "제시(Jessi)",
+        "album": "ZOOM"
+      },
+      {
+        "ranking": 74,
+        "name": "RUN2U",
+        "singer": "STAYC(스테이씨)",
+        "album": "YOUNG-LUV.COM"
+      },
+      {
+        "ranking": 75,
+        "name": "없었던 일로",
+        "singer": "헤이즈 (Heize)",
+        "album": "Undo"
+      },
+      {
+        "ranking": 76,
+        "name": "사랑의 인사",
+        "singer": "WSG워너비 조별경연(비로봉)",
+        "album": "WSG워너비 조별경연"
+      },
+      {
+        "ranking": 77,
+        "name": "어마어마해",
+        "singer": "WSG워너비",
+        "album": "WSG워너비 12"
+      },
+      {
+        "ranking": 78,
+        "name": "스물다섯, 스물하나",
+        "singer": "자우림",
+        "album": "Goodbye, grief."
+      },
+      {
+        "ranking": 79,
+        "name": "I LUV U (with 미란이)",
+        "singer": "김종국",
+        "album": "I LUV U (with 미란이)"
+      },
+      {
+        "ranking": 80,
+        "name": "Dun Dun Dance",
+        "singer": "오마이걸(OH MY GIRL)",
+        "album": "Dear OHMYGIRL"
+      },
+      {
+        "ranking": 81,
+        "name": "여행",
+        "singer": "볼빨간사춘기",
+        "album": "Red Diary Page.2"
+      },
+      {
+        "ranking": 82,
+        "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+        "singer": "폴킴",
+        "album": "'키스 먼저 할까요?' OST Part 3"
+      },
+      {
+        "ranking": 83,
+        "name": "롤린 (Rollin')",
+        "singer": "브레이브걸스(Brave Girls)",
+        "album": "Rollin'"
+      },
+      {
+        "ranking": 84,
+        "name": "Life's Too Short (English Ver.)",
+        "singer": "aespa",
+        "album": "Life's Too Short"
+      },
+      {
+        "ranking": 85,
+        "name": "내 손을 잡아",
+        "singer": "아이유(IU)",
+        "album": "최고의 사랑 OST Part 4"
+      },
+      {
+        "ranking": 86,
+        "name": "러브 쉿!",
+        "singer": "조유리",
+        "album": "Op.22 Y-Waltz : in Major"
+      },
+      {
+        "ranking": 87,
+        "name": "Blueming",
+        "singer": "아이유(IU)",
+        "album": "Love poem"
+      },
+      {
+        "ranking": 88,
+        "name": "Butter",
+        "singer": "방탄소년단",
+        "album": "Butter"
+      },
+      {
+        "ranking": 89,
+        "name": "봄 to 러브",
+        "singer": "10CM",
+        "album": "우리들의 블루스 OST Part 3"
+      },
+      {
+        "ranking": 90,
+        "name": "어제처럼",
+        "singer": "폴킴",
+        "album": "어제처럼"
+      },
+      {
+        "ranking": 91,
+        "name": "HOT",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album 'Face the Sun'"
+      },
+      {
+        "ranking": 92,
+        "name": "Celebrity",
+        "singer": "아이유(IU)",
+        "album": "IU 5th Album 'LILAC'"
+      },
+      {
+        "ranking": 93,
+        "name": "너를 생각해",
+        "singer": "주시크 (Joosiq)",
+        "album": "너를 생각해"
+      },
+      {
+        "ranking": 94,
+        "name": "OHAYO MY NIGHT",
+        "singer": "디핵(D-Hack)",
+        "album": "OHAYO MY NIGHT"
+      },
+      {
+        "ranking": 95,
+        "name": "이제 나만 믿어요",
+        "singer": "임영웅",
+        "album": "내일은 미스터트롯 우승자 특전곡"
+      },
+      {
+        "ranking": 96,
+        "name": "취기를 빌려 (취향저격 그녀 X 산들)",
+        "singer": "산들",
+        "album": "취기를 빌려 (취향저격 그녀 X 산들)"
+      },
+      {
+        "ranking": 97,
+        "name": "SEOUL DRIFT",
+        "singer": "지코 (ZICO)",
+        "album": "Grown Ass Kid"
+      },
+      {
+        "ranking": 98,
+        "name": "Celeb",
+        "singer": "싸이 (PSY)",
+        "album": "싸다9"
+      },
+      {
+        "ranking": 99,
+        "name": "YOU AND I",
+        "singer": "WSG워너비 조별경연(대청봉)",
+        "album": "WSG워너비 조별경연"
+      },
+      {
+        "ranking": 100,
+        "name": "Savage",
+        "singer": "aespa",
+        "album": "Savage - The 1st Mini Album"
+      }
+    ],
+    "MusicDetail": [
+      {
+        "ranking": 36,
+        "name": "사랑은 늘 도망가",
+        "singer": "임영웅",
+        "album": "신사와 아가씨 OST Part 2",
+        "publisher": "(주)엔에이치엔벅스",
+        "agency": "모스트콘텐츠"
+      },
+      {
+        "ranking": 24,
+        "name": "I LOVE U",
+        "singer": "WINNER",
+        "album": "HOLIDAY",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 89,
+        "name": "봄 to 러브",
+        "singer": "10CM",
+        "album": "우리들의 블루스 OST Part 3",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "냠냠엔터테인먼트"
+      },
+      {
+        "ranking": 96,
+        "name": "취기를 빌려 (취향저격 그녀 X 산들)",
+        "singer": "산들",
+        "album": "취기를 빌려 (취향저격 그녀 X 산들)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "TOON STUDIO"
+      },
+      {
+        "ranking": 16,
+        "name": "열이올라요 (Heart Burn)",
+        "singer": "선미",
+        "album": "열이올라요 (Heart Burn)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "(주)어비스컴퍼니"
+      },
+      {
+        "ranking": 12,
+        "name": "Hype boy",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 94,
+        "name": "OHAYO MY NIGHT",
+        "singer": "디핵(D-Hack)",
+        "album": "OHAYO MY NIGHT",
+        "publisher": "YG PLUS",
+        "agency": "NEOKIDZ"
+      },
+      {
+        "ranking": 70,
+        "name": "바라만 본다",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "MSG워너비 1집",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "유야호"
+      },
+      {
+        "ranking": 41,
+        "name": "That's Hilarious",
+        "singer": "Charlie Puth",
+        "album": "That's Hilarious",
+        "publisher": "워너뮤직코리아",
+        "agency": "Atlantic Records"
+      },
+      {
+        "ranking": 63,
+        "name": "눈을 감으면",
+        "singer": "WSG워너비",
+        "album": "눈을 감으면",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 2,
+        "name": "LOVE DIVE",
+        "singer": "IVE(아이브)",
+        "album": "LOVE DIVE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "ranking": 66,
+        "name": "호랑수월가",
+        "singer": "탑현",
+        "album": "호랑수월가",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "탑현월드"
+      },
+      {
+        "ranking": 77,
+        "name": "어마어마해",
+        "singer": "WSG워너비",
+        "album": "WSG워너비 12",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 57,
+        "name": "아무래도 난",
+        "singer": "주시크 (Joosiq)",
+        "album": "아무래도 난",
+        "publisher": "워너뮤직코리아",
+        "agency": "주식회사 레시피뮤직"
+      },
+      {
+        "ranking": 61,
+        "name": "As It Was",
+        "singer": "Harry Styles",
+        "album": "As It Was",
+        "publisher": "소니뮤직",
+        "agency": "Columbia"
+      },
+      {
+        "ranking": 47,
+        "name": "다정히 내 이름을 부르면",
+        "singer": "경서예지",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "에버그로우"
+      },
+      {
+        "ranking": 25,
+        "name": "봄여름가을겨울 (Still Life)",
+        "singer": "BIGBANG (빅뱅)",
+        "album": "봄여름가을겨울 (Still Life)",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 21,
+        "name": "Clink Clink (클링 클링)",
+        "singer": "WSG워너비(오아시소)",
+        "album": "WSG워너비 1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 17,
+        "name": "신호등",
+        "singer": "이무진",
+        "album": "신호등",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "쇼플레이엔터테인먼트"
+      },
+      {
+        "ranking": 93,
+        "name": "너를 생각해",
+        "singer": "주시크 (Joosiq)",
+        "album": "너를 생각해",
+        "publisher": "워너뮤직코리아",
+        "agency": "주식회사 레시피뮤직"
+      },
+      {
+        "ranking": 56,
+        "name": "밤편지",
+        "singer": "아이유(IU)",
+        "album": "밤편지",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "카카오엔터테인먼트, ㈜페이브엔터테인먼트"
+      },
+      {
+        "ranking": 44,
+        "name": "늦은 밤 헤어지긴 너무 아쉬워",
+        "singer": "케이시(Kassy)",
+        "album": "LOVE & HATE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "넥스타엔터테인먼트"
+      },
+      {
+        "ranking": 29,
+        "name": "STAY",
+        "singer": "The Kid LAROI",
+        "album": "STAY",
+        "publisher": "소니뮤직",
+        "agency": "Columbia"
+      },
+      {
+        "ranking": 90,
+        "name": "어제처럼",
+        "singer": "폴킴",
+        "album": "어제처럼",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "메모리즈 프로젝트"
+      },
+      {
+        "ranking": 13,
+        "name": "사랑인가 봐",
+        "singer": "멜로망스(Melomance)",
+        "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "플렉스엠"
+      },
+      {
+        "ranking": 19,
+        "name": "취중고백",
+        "singer": "김민석(멜로망스)",
+        "album": "취중고백",
+        "publisher": "워너뮤직코리아",
+        "agency": "프로젝트 리본"
+      },
+      {
+        "ranking": 1,
+        "name": "그때 그 순간 그대로 (그그그)",
+        "singer": "WSG워너비(가야G)",
+        "album": "WSG워너비 1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 50,
+        "name": "GANADARA (Feat. 아이유)",
+        "singer": "박재범",
+        "album": "GANADARA",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "MORE VISION"
+      },
+      {
+        "ranking": 84,
+        "name": "Life's Too Short (English Ver.)",
+        "singer": "aespa",
+        "album": "Life's Too Short",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 39,
+        "name": "Next Level",
+        "singer": "aespa",
+        "album": "Next Level",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 15,
+        "name": "FEARLESS",
+        "singer": "LE SSERAFIM (르세라핌)",
+        "album": "FEARLESS",
+        "publisher": "YG PLUS",
+        "agency": "쏘스뮤직"
+      },
+      {
+        "ranking": 85,
+        "name": "내 손을 잡아",
+        "singer": "아이유(IU)",
+        "album": "최고의 사랑 OST Part 4",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "더그루브엔터테인먼트"
+      },
+      {
+        "ranking": 64,
+        "name": "고백",
+        "singer": "멜로망스(Melomance)",
+        "album": "세 번째 '고백'",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "카카오엔터테인먼트, 민트페이퍼, 광합성"
+      },
+      {
+        "ranking": 3,
+        "name": "Attention",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 79,
+        "name": "I LUV U (with 미란이)",
+        "singer": "김종국",
+        "album": "I LUV U (with 미란이)",
+        "publisher": "워너뮤직코리아",
+        "agency": "㈜엔케이컴퍼니, ㈜터보제이케이컴퍼니"
+      },
+      {
+        "ranking": 59,
+        "name": "Weekend",
+        "singer": "태연 (TAEYEON)",
+        "album": "Weekend",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 18,
+        "name": "그라데이션",
+        "singer": "10CM",
+        "album": "5.3",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "매직스트로베리사운드"
+      },
+      {
+        "ranking": 49,
+        "name": "Somebody!",
+        "singer": "로꼬",
+        "album": "Somebody",
+        "publisher": "Dreamus",
+        "agency": "AOMG, ㈜RBW"
+      },
+      {
+        "ranking": 95,
+        "name": "이제 나만 믿어요",
+        "singer": "임영웅",
+        "album": "내일은 미스터트롯 우승자 특전곡",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN"
+      },
+      {
+        "ranking": 58,
+        "name": "사랑이야",
+        "singer": "케이시(Kassy)",
+        "album": "사랑이야",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "넥스타엔터테인먼트"
+      },
+      {
+        "ranking": 78,
+        "name": "스물다섯, 스물하나",
+        "singer": "자우림",
+        "album": "Goodbye, grief.",
+        "publisher": "(주)인터파크",
+        "agency": "LOVE MANEUVER"
+      },
+      {
+        "ranking": 31,
+        "name": "회전목마 (Feat. Zion.T, 원슈타인) (Prod. Slom)",
+        "singer": "sokodomo",
+        "album": "쇼미더머니 10 Episode 2",
+        "publisher": "(주)지니뮤직",
+        "agency": "STONE MUSIC ENTERTAINMENT"
+      },
+      {
+        "ranking": 26,
+        "name": "Feel My Rhythm",
+        "singer": "Red Velvet (레드벨벳)",
+        "album": "'The ReVe Festival 2022 - Feel My Rhythm'",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 73,
+        "name": "ZOOM",
+        "singer": "제시(Jessi)",
+        "album": "ZOOM",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "피네이션 주식회사"
+      },
+      {
+        "ranking": 30,
+        "name": "LOVE me",
+        "singer": "BE'O(비오)",
+        "album": "LOVE me",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "BPM ENTERTAINMENT, SWING ENTERTAINMENT, 페임어스 엔터테인먼트"
+      },
+      {
+        "ranking": 33,
+        "name": "드라마",
+        "singer": "아이유(IU)",
+        "album": "조각집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 20,
+        "name": "ELEVEN",
+        "singer": "IVE(아이브)",
+        "album": "ELEVEN",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "스타쉽엔터테인먼트"
+      },
+      {
+        "ranking": 34,
+        "name": "Left and Right (Feat. Jung Kook of BTS)",
+        "singer": "Charlie Puth",
+        "album": "Left and Right (Feat. Jung Kook of BTS)",
+        "publisher": "워너뮤직코리아",
+        "agency": "Atlantic Records"
+      },
+      {
+        "ranking": 35,
+        "name": "Sparkling",
+        "singer": "청하",
+        "album": "Bare&Rare Pt.1",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "MNH Entertainment"
+      },
+      {
+        "ranking": 8,
+        "name": "SNEAKERS",
+        "singer": "ITZY(있지)",
+        "album": "CHECKMATE",
+        "publisher": "Dreamus",
+        "agency": "㈜JYP엔터테인먼트"
+      },
+      {
+        "ranking": 37,
+        "name": "Love story",
+        "singer": "볼빨간사춘기",
+        "album": "Seoul",
+        "publisher": "(주)엔에이치엔벅스",
+        "agency": "쇼파르엔터테인먼트"
+      },
+      {
+        "ranking": 71,
+        "name": "낙하 (with 아이유)",
+        "singer": "AKMU(악뮤)",
+        "album": "NEXT EPISODE",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 67,
+        "name": "MY BAG",
+        "singer": "(여자) 아이들",
+        "album": "I NEVER DIE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "ranking": 81,
+        "name": "여행",
+        "singer": "볼빨간사춘기",
+        "album": "Red Diary Page.2",
+        "publisher": "(주)엔에이치엔벅스",
+        "agency": "쇼파르뮤직"
+      },
+      {
+        "ranking": 32,
+        "name": "팡파레",
+        "singer": "다비치",
+        "album": "Season Note",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "WAKEONE"
+      },
+      {
+        "ranking": 62,
+        "name": "strawberry moon",
+        "singer": "아이유(IU)",
+        "album": "strawberry moon",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 88,
+        "name": "Butter",
+        "singer": "방탄소년단",
+        "album": "Butter",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 22,
+        "name": "FOREVER 1",
+        "singer": "소녀시대 (GIRLS' GENERATION)",
+        "album": "FOREVER 1 - The 7th Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 6,
+        "name": "나의 X에게",
+        "singer": "경서",
+        "album": "나의 X에게",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "꿈의엔진"
+      },
+      {
+        "ranking": 7,
+        "name": "TOMBOY",
+        "singer": "(여자) 아이들",
+        "album": "I NEVER DIE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "ranking": 65,
+        "name": "Dynamite",
+        "singer": "방탄소년단",
+        "album": "Dynamite (DayTime Version)",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 45,
+        "name": "SMILEY (Feat. BIBI)",
+        "singer": "YENA(최예나)",
+        "album": "ˣ‿ˣ (SMiLEY)",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "위에화엔터테인먼트코리아"
+      },
+      {
+        "ranking": 11,
+        "name": "Girls",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 48,
+        "name": "About Damn Time",
+        "singer": "Lizzo",
+        "album": "Special",
+        "publisher": "워너뮤직코리아",
+        "agency": "Nice Life/Atlantic"
+      },
+      {
+        "ranking": 55,
+        "name": "괴짜 (Freak)",
+        "singer": "지코 (ZICO)",
+        "album": "Grown Ass Kid",
+        "publisher": "YG PLUS",
+        "agency": "KOZ 엔터테인먼트"
+      },
+      {
+        "ranking": 46,
+        "name": "INVU",
+        "singer": "태연 (TAEYEON)",
+        "album": "INVU - The 3rd Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 42,
+        "name": "BEAUTIFUL MONSTER",
+        "singer": "STAYC(스테이씨)",
+        "album": "WE NEED LOVE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "High Up Entertainment"
+      },
+      {
+        "ranking": 72,
+        "name": "Permission to Dance",
+        "singer": "방탄소년단",
+        "album": "Butter / Permission to Dance",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 74,
+        "name": "RUN2U",
+        "singer": "STAYC(스테이씨)",
+        "album": "YOUNG-LUV.COM",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "High Up Entertainment"
+      },
+      {
+        "ranking": 51,
+        "name": "Bad Habits",
+        "singer": "Ed Sheeran",
+        "album": "Bad Habits",
+        "publisher": "워너뮤직코리아",
+        "agency": "Atlantic Records UK"
+      },
+      {
+        "ranking": 40,
+        "name": "밤하늘의 별을 (2020)",
+        "singer": "경서",
+        "album": "밤하늘의 별을 (2020)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "꿈의엔진"
+      },
+      {
+        "ranking": 10,
+        "name": "정이라고 하자 (Feat. 10CM)",
+        "singer": "BIG Naughty (서동현)",
+        "album": "정이라고 하자",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "H1GHR MUSIC RECORDS"
+      },
+      {
+        "ranking": 28,
+        "name": "우리들의 블루스",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 38,
+        "name": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "singer": "AKMU(악뮤)",
+        "album": "항해",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 23,
+        "name": "너의 모든 순간",
+        "singer": "성시경",
+        "album": "별에서 온 그대 OST Part 7",
+        "publisher": "(주)엔에이치엔벅스",
+        "agency": "SBS컨텐츠허브"
+      },
+      {
+        "ranking": 76,
+        "name": "사랑의 인사",
+        "singer": "WSG워너비 조별경연(비로봉)",
+        "album": "WSG워너비 조별경연",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 5,
+        "name": "POP!",
+        "singer": "나연 (TWICE)",
+        "album": "IM NAYEON",
+        "publisher": "Dreamus",
+        "agency": "㈜JYP엔터테인먼트"
+      },
+      {
+        "ranking": 80,
+        "name": "Dun Dun Dance",
+        "singer": "오마이걸(OH MY GIRL)",
+        "album": "Dear OHMYGIRL",
+        "publisher": "소니뮤직",
+        "agency": "WM Entertainment"
+      },
+      {
+        "ranking": 27,
+        "name": "듣고 싶을까",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "듣고 싶을까",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "NK Company"
+      },
+      {
+        "ranking": 4,
+        "name": "보고싶었어",
+        "singer": "WSG워너비(4FIRE)",
+        "album": "WSG워너비 1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 97,
+        "name": "SEOUL DRIFT",
+        "singer": "지코 (ZICO)",
+        "album": "Grown Ass Kid",
+        "publisher": "YG PLUS",
+        "agency": "KOZ 엔터테인먼트"
+      },
+      {
+        "ranking": 43,
+        "name": "Cookie",
+        "singer": "NewJeans",
+        "album": "NewJeans 1st EP 'New Jeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 92,
+        "name": "Celebrity",
+        "singer": "아이유(IU)",
+        "album": "IU 5th Album 'LILAC'",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 87,
+        "name": "Blueming",
+        "singer": "아이유(IU)",
+        "album": "Love poem",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "카카오엔터테인먼트"
+      },
+      {
+        "ranking": 75,
+        "name": "없었던 일로",
+        "singer": "헤이즈 (Heize)",
+        "album": "Undo",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "피네이션"
+      },
+      {
+        "ranking": 91,
+        "name": "HOT",
+        "singer": "세븐틴",
+        "album": "SEVENTEEN 4th Album 'Face the Sun'",
+        "publisher": "YG PLUS",
+        "agency": "플레디스엔터테인먼트"
+      },
+      {
+        "ranking": 52,
+        "name": "다시 만날 수 있을까",
+        "singer": "임영웅",
+        "album": "IM HERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 14,
+        "name": "도깨비불 (Illusion)",
+        "singer": "aespa",
+        "album": "Girls - The 2nd Mini Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 82,
+        "name": "모든 날, 모든 순간 (Every day, Every Moment)",
+        "singer": "폴킴",
+        "album": "'키스 먼저 할까요?' OST Part 3",
+        "publisher": "Dreamus",
+        "agency": "S.M.Entertainment"
+      },
+      {
+        "ranking": 9,
+        "name": "That That (prod. ＆ feat. SUGA of BTS)",
+        "singer": "싸이 (PSY)",
+        "album": "싸다9",
+        "publisher": "Dreamus",
+        "agency": "P NATION"
+      },
+      {
+        "ranking": 69,
+        "name": "Stay This Way",
+        "singer": "프로미스나인",
+        "album": "from our Memento Box",
+        "publisher": "YG PLUS",
+        "agency": "플레디스엔터테인먼트"
+      },
+      {
+        "ranking": 83,
+        "name": "롤린 (Rollin')",
+        "singer": "브레이브걸스(Brave Girls)",
+        "album": "Rollin'",
+        "publisher": "3.14",
+        "agency": "브레이브엔터테인먼트"
+      },
+      {
+        "ranking": 100,
+        "name": "Savage",
+        "singer": "aespa",
+        "album": "Savage - The 1st Mini Album",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 86,
+        "name": "러브 쉿!",
+        "singer": "조유리",
+        "album": "Op.22 Y-Waltz : in Major",
+        "publisher": "(주)지니뮤직, Stone Music Entertainment",
+        "agency": "WAKEONE"
+      },
+      {
+        "ranking": 68,
+        "name": "눈이 오잖아(Feat.헤이즈)",
+        "singer": "이무진",
+        "album": "눈이 오잖아(Feat.헤이즈)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "쇼플레이엔터테인먼트"
+      },
+      {
+        "ranking": 54,
+        "name": "라일락",
+        "singer": "아이유(IU)",
+        "album": "IU 5th Album 'LILAC'",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "EDAM엔터테인먼트"
+      },
+      {
+        "ranking": 53,
+        "name": "리무진 (Feat. MINO) (Prod. GRAY)",
+        "singer": "BE'O(비오)",
+        "album": "쇼미더머니 10 Episode 3",
+        "publisher": "(주)지니뮤직",
+        "agency": "STONE MUSIC ENTERTAINMENT"
+      },
+      {
+        "ranking": 99,
+        "name": "YOU AND I",
+        "singer": "WSG워너비 조별경연(대청봉)",
+        "album": "WSG워너비 조별경연",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 60,
+        "name": "Yet To Come",
+        "singer": "방탄소년단",
+        "album": "Proof",
+        "publisher": "YG PLUS",
+        "agency": "BIGHIT MUSIC"
+      },
+      {
+        "ranking": 98,
+        "name": "Celeb",
+        "singer": "싸이 (PSY)",
+        "album": "싸다9",
+        "publisher": "Dreamus",
+        "agency": "P NATION"
+      }
+    ]
+  },
+  "gennie": {
+    "MusicSummary": [
+      {
+        "ranking": 1,
+        "name": "그때그순간그대로(그그그)",
+        "singer": "WSG워너비(가야G)",
+        "album": "WSG워너비1집"
+      },
+      {
+        "ranking": 2,
+        "name": "Attention",
+        "singer": "NewJeans",
+        "album": "NewJeans1stEP'NewJeans'"
+      },
+      {
+        "ranking": 3,
+        "name": "보고싶었어",
+        "singer": "WSG워너비(4FIRE)",
+        "album": "WSG워너비1집"
+      },
+      {
+        "ranking": 4,
+        "name": "LOVEDIVE",
+        "singer": "IVE(아이브)",
+        "album": "LOVEDIVE"
+      },
+      {
+        "ranking": 5,
+        "name": "SNEAKERS",
+        "singer": "ITZY(있지)",
+        "album": "CHECKMATE"
+      },
+      {
+        "ranking": 6,
+        "name": "Hypeboy",
+        "singer": "NewJeans",
+        "album": "NewJeans1stEP'NewJeans'"
+      },
+      {
+        "ranking": 7,
+        "name": "POP!",
+        "singer": "나연(TWICE)",
+        "album": "IMNAYEON"
+      },
+      {
+        "ranking": 8,
+        "name": "사랑은늘도망가",
+        "singer": "임영웅",
+        "album": "신사와아가씨OSTPart.2"
+      },
+      {
+        "ranking": 9,
+        "name": "TOMBOY",
+        "singer": "(여자)아이들",
+        "album": "INEVERDIE"
+      },
+      {
+        "ranking": 10,
+        "name": "ThatThat(Prod.&Feat.SUGAofBTS)",
+        "singer": "싸이(Psy)",
+        "album": "싸다9"
+      },
+      {
+        "ranking": 11,
+        "name": "나의X에게",
+        "singer": "경서",
+        "album": "나의X에게"
+      },
+      {
+        "ranking": 12,
+        "name": "우리들의블루스",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 13,
+        "name": "Lovestory",
+        "singer": "볼빨간사춘기",
+        "album": "Seoul"
+      },
+      {
+        "ranking": 14,
+        "name": "FOREVER1",
+        "singer": "소녀시대(GIRLS'GENERATION)",
+        "album": "FOREVER1-The7thAlbum"
+      },
+      {
+        "ranking": 15,
+        "name": "사랑인가봐",
+        "singer": "멜로망스(MeloMance)",
+        "album": "사랑인가봐(사내맞선OST스페셜트랙)"
+      },
+      {
+        "ranking": 16,
+        "name": "정이라고하자(Feat.10CM)",
+        "singer": "BIGNaughty(서동현)",
+        "album": "정이라고하자"
+      },
+      {
+        "ranking": 17,
+        "name": "그라데이션",
+        "singer": "10CM",
+        "album": "5.3"
+      },
+      {
+        "ranking": 18,
+        "name": "다시만날수있을까",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 19,
+        "name": "도깨비불(Illusion)",
+        "singer": "aespa",
+        "album": "Girls-The2ndMiniAlbum"
+      },
+      {
+        "ranking": 20,
+        "name": "Girls",
+        "singer": "aespa",
+        "album": "Girls-The2ndMiniAlbum"
+      },
+      {
+        "ranking": 21,
+        "name": "이제나만믿어요",
+        "singer": "임영웅",
+        "album": "내일은미스터트롯우승자특전곡"
+      },
+      {
+        "ranking": 22,
+        "name": "무지개",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 23,
+        "name": "ClinkClink(클링클링)",
+        "singer": "WSG워너비(오아시소)",
+        "album": "WSG워너비1집"
+      },
+      {
+        "ranking": 24,
+        "name": "아버지",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 25,
+        "name": "LOVEme",
+        "singer": "BE'O(비오)",
+        "album": "LOVEme"
+      },
+      {
+        "ranking": 26,
+        "name": "다정히내이름을부르면",
+        "singer": "경서예지&전건호",
+        "album": "다정히내이름을부르면(경서예지x전건호)"
+      },
+      {
+        "ranking": 27,
+        "name": "Abientot",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 28,
+        "name": "내가아니라도",
+        "singer": "주호",
+        "album": "내가아니라도"
+      },
+      {
+        "ranking": 29,
+        "name": "손이참곱던그대",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 30,
+        "name": "바보에게바보가(웹툰'연애의발견'X이석훈)",
+        "singer": "이석훈",
+        "album": "바보에게바보가(웹툰'연애의발견'X이석훈)"
+      },
+      {
+        "ranking": 31,
+        "name": "사랑해진짜",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 32,
+        "name": "사랑역",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 33,
+        "name": "연애편지",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 34,
+        "name": "보금자리",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 35,
+        "name": "사랑해요그대를",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 36,
+        "name": "That'sHilarious",
+        "singer": "CharliePuth",
+        "album": "That'sHilarious"
+      },
+      {
+        "ranking": 37,
+        "name": "봄여름가을겨울(StillLife)",
+        "singer": "BIGBANG(빅뱅)",
+        "album": "봄여름가을겨울(StillLife)"
+      },
+      {
+        "ranking": 38,
+        "name": "인생찬가",
+        "singer": "임영웅",
+        "album": "IMHERO"
+      },
+      {
+        "ranking": 39,
+        "name": "눈을감으면",
+        "singer": "WSG워너비",
+        "album": "눈을감으면"
+      },
+      {
+        "ranking": 40,
+        "name": "취중고백",
+        "singer": "김민석(멜로망스)",
+        "album": "취중고백"
+      },
+      {
+        "ranking": 41,
+        "name": "열이올라요(HeartBurn)",
+        "singer": "선미",
+        "album": "열이올라요(HeartBurn)"
+      },
+      {
+        "ranking": 42,
+        "name": "신호등",
+        "singer": "이무진",
+        "album": "신호등"
+      },
+      {
+        "ranking": 43,
+        "name": "FEARLESS",
+        "singer": "LESSERAFIM(르세라핌)",
+        "album": "FEARLESS"
+      },
+      {
+        "ranking": 44,
+        "name": "Stay",
+        "singer": "TheKidLAROI&JustinBieber",
+        "album": "Stay"
+      },
+      {
+        "ranking": 45,
+        "name": "ELEVEN",
+        "singer": "IVE(아이브)",
+        "album": "ELEVEN"
+      },
+      {
+        "ranking": 46,
+        "name": "MYBAG",
+        "singer": "(여자)아이들",
+        "album": "INEVERDIE"
+      },
+      {
+        "ranking": 47,
+        "name": "해요(2022)",
+        "singer": "#안녕",
+        "album": "해요(2022)"
+      },
+      {
+        "ranking": 48,
+        "name": "ILOVEU",
+        "singer": "WINNER",
+        "album": "HOLIDAY"
+      },
+      {
+        "ranking": 49,
+        "name": "바라만본다",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "MSG워너비1집"
+      },
+      {
+        "ranking": 50,
+        "name": "듣고싶을까",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "듣고싶을까"
+      }
+    ],
+    "MusicDetail": [
+      {
+        "ranking": 22,
+        "name": "무지개",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 44,
+        "name": "Stay",
+        "singer": "TheKidLAROI&JustinBieber",
+        "album": "Stay",
+        "publisher": "Sony Music",
+        "agency": "Columbia"
+      },
+      {
+        "ranking": 11,
+        "name": "나의X에게",
+        "singer": "경서",
+        "album": "나의X에게",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "꿈의 엔진"
+      },
+      {
+        "ranking": 4,
+        "name": "LOVEDIVE",
+        "singer": "IVE(아이브)",
+        "album": "LOVEDIVE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "스타쉽 엔터테인먼트"
+      },
+      {
+        "ranking": 6,
+        "name": "Hypeboy",
+        "singer": "NewJeans",
+        "album": "NewJeans1stEP'NewJeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 47,
+        "name": "해요(2022)",
+        "singer": "#안녕",
+        "album": "해요(2022)",
+        "publisher": "지니뮤직",
+        "agency": "일팔 프로젝트"
+      },
+      {
+        "ranking": 32,
+        "name": "사랑역",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 17,
+        "name": "그라데이션",
+        "singer": "10CM",
+        "album": "5.3",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "매직스트로베리사운드"
+      },
+      {
+        "ranking": 36,
+        "name": "That'sHilarious",
+        "singer": "CharliePuth",
+        "album": "That'sHilarious",
+        "publisher": "워너뮤직",
+        "agency": "Atlantic Records"
+      },
+      {
+        "ranking": 23,
+        "name": "ClinkClink(클링클링)",
+        "singer": "WSG워너비(오아시소)",
+        "album": "WSG워너비1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 16,
+        "name": "정이라고하자(Feat.10CM)",
+        "singer": "BIGNaughty(서동현)",
+        "album": "정이라고하자",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "H1GHR MUSIC RECORDS"
+      },
+      {
+        "ranking": 15,
+        "name": "사랑인가봐",
+        "singer": "멜로망스(MeloMance)",
+        "album": "사랑인가봐(사내맞선OST스페셜트랙)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "플렉스엠"
+      },
+      {
+        "ranking": 40,
+        "name": "취중고백",
+        "singer": "김민석(멜로망스)",
+        "album": "취중고백",
+        "publisher": "워너뮤직",
+        "agency": "프로젝트 리본"
+      },
+      {
+        "ranking": 10,
+        "name": "ThatThat(Prod.&Feat.SUGAofBTS)",
+        "singer": "싸이(Psy)",
+        "album": "싸다9",
+        "publisher": "Dreamus",
+        "agency": "P NATION"
+      },
+      {
+        "ranking": 28,
+        "name": "내가아니라도",
+        "singer": "주호",
+        "album": "내가아니라도",
+        "publisher": "워너뮤직",
+        "agency": "IN A MILLION"
+      },
+      {
+        "ranking": 39,
+        "name": "눈을감으면",
+        "singer": "WSG워너비",
+        "album": "눈을감으면",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 7,
+        "name": "POP!",
+        "singer": "나연(TWICE)",
+        "album": "IMNAYEON",
+        "publisher": "Dreamus",
+        "agency": "(주)JYP엔터테인먼트"
+      },
+      {
+        "ranking": 50,
+        "name": "듣고싶을까",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "듣고싶을까",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 37,
+        "name": "봄여름가을겨울(StillLife)",
+        "singer": "BIGBANG(빅뱅)",
+        "album": "봄여름가을겨울(StillLife)",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 1,
+        "name": "그때그순간그대로(그그그)",
+        "singer": "WSG워너비(가야G)",
+        "album": "WSG워너비1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 49,
+        "name": "바라만본다",
+        "singer": "MSG워너비(M.O.M)",
+        "album": "MSG워너비1집",
+        "publisher": "지니뮤직, Stone Music Entertainment",
+        "agency": "유야호"
+      },
+      {
+        "ranking": 18,
+        "name": "다시만날수있을까",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 27,
+        "name": "Abientot",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 46,
+        "name": "MYBAG",
+        "singer": "(여자)아이들",
+        "album": "INEVERDIE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "ranking": 41,
+        "name": "열이올라요(HeartBurn)",
+        "singer": "선미",
+        "album": "열이올라요(HeartBurn)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "(주)어비스컴퍼니"
+      },
+      {
+        "ranking": 33,
+        "name": "연애편지",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 5,
+        "name": "SNEAKERS",
+        "singer": "ITZY(있지)",
+        "album": "CHECKMATE",
+        "publisher": "Dreamus",
+        "agency": "(주)JYP엔터테인먼트"
+      },
+      {
+        "ranking": 24,
+        "name": "아버지",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 19,
+        "name": "도깨비불(Illusion)",
+        "singer": "aespa",
+        "album": "Girls-The2ndMiniAlbum",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 20,
+        "name": "Girls",
+        "singer": "aespa",
+        "album": "Girls-The2ndMiniAlbum",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 21,
+        "name": "이제나만믿어요",
+        "singer": "임영웅",
+        "album": "내일은미스터트롯우승자특전곡",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "TV CHOSUN"
+      },
+      {
+        "ranking": 25,
+        "name": "LOVEme",
+        "singer": "BE'O(비오)",
+        "album": "LOVEme",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "BPM ENTERTAINMENT, SWING ENTERTAINMENT, 페임어스 엔터테인먼트"
+      },
+      {
+        "ranking": 3,
+        "name": "보고싶었어",
+        "singer": "WSG워너비(4FIRE)",
+        "album": "WSG워너비1집",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "문화방송"
+      },
+      {
+        "ranking": 2,
+        "name": "Attention",
+        "singer": "NewJeans",
+        "album": "NewJeans1stEP'NewJeans'",
+        "publisher": "YG PLUS",
+        "agency": "ADOR"
+      },
+      {
+        "ranking": 48,
+        "name": "ILOVEU",
+        "singer": "WINNER",
+        "album": "HOLIDAY",
+        "publisher": "YG PLUS",
+        "agency": "YG Entertainment"
+      },
+      {
+        "ranking": 26,
+        "name": "다정히내이름을부르면",
+        "singer": "경서예지&전건호",
+        "album": "다정히내이름을부르면(경서예지x전건호)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "에버그로우"
+      },
+      {
+        "ranking": 12,
+        "name": "우리들의블루스",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 30,
+        "name": "바보에게바보가(웹툰'연애의발견'X이석훈)",
+        "singer": "이석훈",
+        "album": "바보에게바보가(웹툰'연애의발견'X이석훈)",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "TOON STUDIO"
+      },
+      {
+        "ranking": 42,
+        "name": "신호등",
+        "singer": "이무진",
+        "album": "신호등",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "쇼플레이엔터테인먼트"
+      },
+      {
+        "ranking": 31,
+        "name": "사랑해진짜",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 13,
+        "name": "Lovestory",
+        "singer": "볼빨간사춘기",
+        "album": "Seoul",
+        "publisher": "NHN벅스",
+        "agency": "쇼파르엔터테인먼트"
+      },
+      {
+        "ranking": 8,
+        "name": "사랑은늘도망가",
+        "singer": "임영웅",
+        "album": "신사와아가씨OSTPart.2",
+        "publisher": "NHN벅스",
+        "agency": "모스트콘텐츠"
+      },
+      {
+        "ranking": 35,
+        "name": "사랑해요그대를",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 45,
+        "name": "ELEVEN",
+        "singer": "IVE(아이브)",
+        "album": "ELEVEN",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "스타쉽 엔터테인먼트"
+      },
+      {
+        "ranking": 29,
+        "name": "손이참곱던그대",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 34,
+        "name": "보금자리",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 14,
+        "name": "FOREVER1",
+        "singer": "소녀시대(GIRLS'GENERATION)",
+        "album": "FOREVER1-The7thAlbum",
+        "publisher": "Dreamus",
+        "agency": "SM ENTERTAINMENT"
+      },
+      {
+        "ranking": 9,
+        "name": "TOMBOY",
+        "singer": "(여자)아이들",
+        "album": "INEVERDIE",
+        "publisher": "카카오엔터테인먼트",
+        "agency": "큐브 엔터테인먼트"
+      },
+      {
+        "ranking": 38,
+        "name": "인생찬가",
+        "singer": "임영웅",
+        "album": "IMHERO",
+        "publisher": "Dreamus",
+        "agency": "물고기뮤직"
+      },
+      {
+        "ranking": 43,
+        "name": "FEARLESS",
+        "singer": "LESSERAFIM(르세라핌)",
+        "album": "FEARLESS",
+        "publisher": "YG PLUS",
+        "agency": "쏘스뮤직"
+      }
+    ]
+  }
+}
